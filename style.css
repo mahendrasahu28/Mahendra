@@ -700,6 +700,7 @@ footer span {
     nav .menu-icon .nav-icon,
     nav .menu-icon:checked~.menu-icon .nav-icon {
         background-color: transparent;
+       color: #fff;
     }
     nav .menu-btn:checked~.menu-icon .nav-icon::before {
         transform: rotate(-45deg);
