@@ -704,10 +704,12 @@ footer span {
     nav .menu-btn:checked~.menu-icon .nav-icon::before {
         transform: rotate(-45deg);
         top: 0;
+        color: #fff;
     }
     nav .menu-btn:checked~.menu-icon .nav-icon::after {
         transform: rotate(45deg);
         top: 0;
+        color: #fff;
     }
     nav .menu-btn:checked~.menu {
         display: block;
